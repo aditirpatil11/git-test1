@@ -1,0 +1,1 @@
+console.log("Hello,! Welcome to the world of Java.",2000 + 24)
